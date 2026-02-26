@@ -23,17 +23,13 @@ all delivered to your inbox automatically.
 ## 📸 Workflow Preview
 
 ### Submission Form
-
-![Form](Screenshot 2026-02-26 214904.png)
+![Form](Screenshot%202026-02-26%20214904.png)
 
 ### n8n Workflow
-
-![Workflow](workflow.png)
+![Workflow](Screenshot%202026-02-26%20213441.png)
 
 ### Google Sheets Output
-
-![Sheets](sheets.png)
+![Sheets](Screenshot%202026-02-26%20213743.png)
 
 ### Email Report
-
-![Email](email.png)
+![Email](Screenshot%202026-02-26%20213821.png)
