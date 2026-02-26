@@ -24,7 +24,7 @@ all delivered to your inbox automatically.
 
 ### Submission Form
 
-![Form](form.png)
+![Form](Screenshot 2026-02-26 214904.png)
 
 ### n8n Workflow
 
