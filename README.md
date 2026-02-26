@@ -23,7 +23,7 @@ all delivered to your inbox automatically.
 ## 📸 Workflow Preview
 
 ### Submission Form
-![Form](Screenshot%202026-02-26%20214904.png)
+![Form](Screenshot%202026-02-26%20222022.png)
 
 ### n8n Workflow
 ![Workflow](Screenshot%202026-02-26%20213441.png)
